@@ -15,3 +15,9 @@ Composite Pattern is useful when:
 **Consequence:**
 
 - Can make the design overly general. It makes it harder to restict the components of a composite.
+
+# PC Equiptment Example
+
+![image](https://github.com/evan-placenis/Composite/assets/112578037/c8de7b83-0142-4f63-afe2-26b4cbdc9500)
+
+The program consists of an equiptment composite and component that demonstrate actions through print statements. This example shows the ability to add objects into compositions and perform a uniform action using the Composite Pattern.
