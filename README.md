@@ -1,4 +1,4 @@
-# Composite
+# Composite (Structural)
 
 Composite lets clients treat individual objects and compositions of objects uniformly.
 
