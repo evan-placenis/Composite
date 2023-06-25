@@ -1,15 +1,6 @@
 from abc import ABC, abstractmethod
-
-class Watt():
-    def __init__(self, watt):
-        self.watt = watt
-
-class Currency():
-    def __init__(self, price):
-        self.price = price
-
-
-
+from Watt import Watt
+from Currency import Currency
 
 class Equiptment(ABC):
 
